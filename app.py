@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # --- 1. CẤU HÌNH GIAO DIỆN ---
-st.set_page_config(page_title="Công Cụ Tính Lãi Tiết Kiệm", page_icon="🏦", layout="wide")
+st.set_page_config(page_title="Công Cụ Tính Lãi Tiết Kiệm_ Hà Quang Hiền", page_icon="🏦", layout="wide")
 
 # CSS tùy chỉnh để làm đẹp giao diện
 st.markdown("""
