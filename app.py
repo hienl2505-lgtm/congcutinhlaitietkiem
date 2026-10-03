@@ -16,7 +16,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<p class="main-header">🏦 BẢNG TÍNH LÃI SUẤT TIẾT KIỆM</p>', unsafe_allow_html=True)
+st.markdown('<p class="main-header">🏦 Công Cụ Tính Lãi Tiết Kiệm_ Hà Quang Hiền</p>', unsafe_allow_html=True)
 st.markdown('<p class="sub-header">Công cụ dự toán lợi nhuận chuyên nghiệp & trực quan</p>', unsafe_allow_html=True)
 
 # --- 2. BỐ CỤC CHÍNH ---
